@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">External_Database</string>
+    <string name="enter_roll_no">Enter Roll No.</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="show_records">Show Records</string>
+</resources>
